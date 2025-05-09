@@ -48,6 +48,6 @@ This repository contains the main projects I completed during my **Udacity Data 
 - Python 3
 - `Pandas`, `NumPy`
 - `Matplotlib`, `Seaborn`
-- `Tweepy`, `Requests`, `Kaggle API`
+- `Kaggle API`
 
 ---
