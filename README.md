@@ -26,7 +26,7 @@ This repository contains the main projects I completed during my **Udacity Data 
 - **Wrangling Methods:**
   - Used Kaggle API and manual data import
   - Cleaned missing values, formatted dates, merged datasets
-- **Skills Used:** `Pandas`, `Requests`, `Kaggle API`, `Data Cleaning`, Merging Datasets
+- **Skills Used:** `Pandas`, `Kaggle API`, `Data Cleaning`, Merging Datasets
 - **Result:** Discovered patterns showing a slight inverse relationship between fuel prices and specific vehicle sales.
 
 ---
